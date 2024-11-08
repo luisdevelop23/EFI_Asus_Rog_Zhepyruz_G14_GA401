@@ -23,7 +23,7 @@ Step 1:
 
 ## Indications
 
-- use the OCAuxiliaryTools tool,change the information on your system, in the sections SystemUUID, SystemSerialNumber, ROM
+- use the OCAuxiliaryTools tool (https://github.com/ic005k/OCAuxiliaryTools) ,change the information on your system, in the sections SystemUUID, SystemSerialNumber, ROM
 
 - Create two partitions, one with a volume greater than 80gb recommended and name it macos, and another with 230mb, the latter we will use as boot so name it boot in FAT32
 
