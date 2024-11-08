@@ -23,6 +23,8 @@ Step 1:
 
 ## Indications
 
+- use the OCAuxiliaryTools tool,change the information on your system, in the sections SystemUUID, SystemSerialNumber, ROM
+
 - Create two partitions, one with a volume greater than 80gb recommended and name it macos, and another with 230mb, the latter we will use as boot so name it boot in FAT32
 
 - install the EFI, separate the after-config folder, with a USB or external drive format it to FAT32, place the EFI file there.
