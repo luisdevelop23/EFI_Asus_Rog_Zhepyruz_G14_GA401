@@ -2487,7 +2487,7 @@
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>DB23CKrI</data>
+                <data></data>
                 <key>SpoofVendor</key>
                 <false/>
                 <key>SystemMemoryStatus</key>
@@ -2495,9 +2495,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,3</string>
                 <key>SystemSerialNumber</key>
-                <string>C02DCLYCP3XY</string>
+                <string></string>
                 <key>SystemUUID</key>
-                <string>2B8F8458-2FEE-42C5-926B-2AC6B09E9E1F</string>
+                <string></string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
